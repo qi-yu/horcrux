@@ -21,7 +21,12 @@ h2 {
     color: $subtitle;
   }
 }
-h1, h2, footer {
+h3, h4, h5 {
+  font-weight: 100;
+  color: $subtitle;
+  font-family: 'Helvetica', 'Lato', 'Verdana', sans-serif;
+}
+footer {
   text-transform: uppercase;
   letter-spacing: 1.6px;
 }

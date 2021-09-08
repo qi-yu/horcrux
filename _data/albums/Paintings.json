@@ -1,0 +1,30 @@
+{
+  "order": [
+    "1.jpeg",
+    "2.jpg",
+    "3.jpg"
+  ],
+  "dict": {
+    "1.jpeg": {
+      "type": "photo",
+      "width": 4093,
+      "height": 2894,
+      "path": "./photos/Paintings/1.jpeg",
+      "min_path": "./photos/Paintings/1.min.jpeg"
+    },
+    "2.jpg": {
+      "type": "photo",
+      "width": 2480,
+      "height": 3508,
+      "path": "./photos/Paintings/2.jpg",
+      "min_path": "./photos/Paintings/2.min.jpg"
+    },
+    "3.jpg": {
+      "type": "photo",
+      "width": 2894,
+      "height": 4093,
+      "path": "./photos/Paintings/3.jpg",
+      "min_path": "./photos/Paintings/3.min.jpg"
+    }
+  }
+}
