@@ -29,17 +29,10 @@
       },
       {
         "type": "photo",
-        "width": 2480,
-        "height": 3508,
+        "width": 2560,
+        "height": 1600,
         "path": "./photos/Paintings/4.jpg",
         "min_path": "./photos/Paintings/4.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 2480,
-        "height": 3508,
-        "path": "./photos/Paintings/5.jpg",
-        "min_path": "./photos/Paintings/5.min.jpg"
       }
     ]
   }
