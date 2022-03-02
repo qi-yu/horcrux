@@ -19,6 +19,20 @@
         "height": 1893,
         "path": "./photos/Paintings/2.jpg",
         "min_path": "./photos/Paintings/2.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3175,
+        "height": 2244,
+        "path": "./photos/Paintings/3.jpg",
+        "min_path": "./photos/Paintings/3.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1600,
+        "height": 2264,
+        "path": "./photos/Paintings/4.jpg",
+        "min_path": "./photos/Paintings/4.min.jpg"
       }
     ]
   }
