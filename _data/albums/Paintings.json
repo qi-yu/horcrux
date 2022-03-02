@@ -3,7 +3,9 @@
     "1.jpg",
     "2.jpg",
     "3.jpg",
-    "4.jpg"
+    "4.jpg",
+    "5.jpg",
+    "6.jpg"
   ],
   "dict": {
     "1.jpg": {
@@ -33,6 +35,20 @@
       "height": 2264,
       "path": "./photos/Paintings/4.jpg",
       "min_path": "./photos/Paintings/4.min.jpg"
+    },
+    "5.jpg": {
+      "type": "photo",
+      "width": 1915,
+      "height": 2709,
+      "path": "./photos/Paintings/5.jpg",
+      "min_path": "./photos/Paintings/5.min.jpg"
+    },
+    "6.jpg": {
+      "type": "photo",
+      "width": 3508,
+      "height": 2480,
+      "path": "./photos/Paintings/6.jpg",
+      "min_path": "./photos/Paintings/6.min.jpg"
     }
   }
 }
