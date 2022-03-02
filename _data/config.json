@@ -8,29 +8,29 @@
     "list": [
       {
         "type": "photo",
-        "width": 4093,
-        "height": 2894,
+        "width": 993,
+        "height": 702,
         "path": "./photos/Paintings/1.jpg",
         "min_path": "./photos/Paintings/1.min.jpg"
       },
       {
         "type": "photo",
-        "width": 2480,
-        "height": 3508,
+        "width": 2677,
+        "height": 1893,
         "path": "./photos/Paintings/2.jpg",
         "min_path": "./photos/Paintings/2.min.jpg"
       },
       {
         "type": "photo",
-        "width": 2894,
-        "height": 4093,
+        "width": 3175,
+        "height": 2244,
         "path": "./photos/Paintings/3.jpg",
         "min_path": "./photos/Paintings/3.min.jpg"
       },
       {
         "type": "photo",
-        "width": 2560,
-        "height": 1600,
+        "width": 1600,
+        "height": 2264,
         "path": "./photos/Paintings/4.jpg",
         "min_path": "./photos/Paintings/4.min.jpg"
       }
