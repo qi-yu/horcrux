@@ -1,13 +1,16 @@
 {
   "order": [
     "1.jpg",
+    "10.jpg",
+    "11.jpg",
     "2.jpg",
     "3.jpg",
     "4.jpg",
     "5.jpg",
     "6.jpg",
     "7.jpg",
-    "8.jpg"
+    "8.jpg",
+    "9.jpg"
   ],
   "dict": {
     "1.jpg": {
@@ -16,6 +19,20 @@
       "height": 702,
       "path": "./photos/Paintings/1.jpg",
       "min_path": "./photos/Paintings/1.min.jpg"
+    },
+    "10.jpg": {
+      "type": "photo",
+      "width": 725,
+      "height": 1175,
+      "path": "./photos/Paintings/10.jpg",
+      "min_path": "./photos/Paintings/10.min.jpg"
+    },
+    "11.jpg": {
+      "type": "photo",
+      "width": 2480,
+      "height": 3508,
+      "path": "./photos/Paintings/11.jpg",
+      "min_path": "./photos/Paintings/11.min.jpg"
     },
     "2.jpg": {
       "type": "photo",
@@ -65,6 +82,13 @@
       "height": 1600,
       "path": "./photos/Paintings/8.jpg",
       "min_path": "./photos/Paintings/8.min.jpg"
+    },
+    "9.jpg": {
+      "type": "photo",
+      "width": 3508,
+      "height": 2480,
+      "path": "./photos/Paintings/9.jpg",
+      "min_path": "./photos/Paintings/9.min.jpg"
     }
   }
 }

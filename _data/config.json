@@ -15,6 +15,20 @@
       },
       {
         "type": "photo",
+        "width": 725,
+        "height": 1175,
+        "path": "./photos/Paintings/10.jpg",
+        "min_path": "./photos/Paintings/10.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2480,
+        "height": 3508,
+        "path": "./photos/Paintings/11.jpg",
+        "min_path": "./photos/Paintings/11.min.jpg"
+      },
+      {
+        "type": "photo",
         "width": 2677,
         "height": 1893,
         "path": "./photos/Paintings/2.jpg",
@@ -61,6 +75,13 @@
         "height": 1600,
         "path": "./photos/Paintings/8.jpg",
         "min_path": "./photos/Paintings/8.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3508,
+        "height": 2480,
+        "path": "./photos/Paintings/9.jpg",
+        "min_path": "./photos/Paintings/9.min.jpg"
       }
     ]
   }
