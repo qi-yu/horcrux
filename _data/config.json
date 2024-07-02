@@ -8,6 +8,13 @@
     "list": [
       {
         "type": "photo",
+        "width": 2479,
+        "height": 3400,
+        "path": "./photos/Paintings/0.jpg",
+        "min_path": "./photos/Paintings/0.min.jpg"
+      },
+      {
+        "type": "photo",
         "width": 993,
         "height": 702,
         "path": "./photos/Paintings/1.jpg",

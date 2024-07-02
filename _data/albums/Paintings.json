@@ -1,5 +1,6 @@
 {
   "order": [
+    "0.jpg",
     "1.jpg",
     "10.jpg",
     "11.jpg",
@@ -13,6 +14,13 @@
     "9.jpg"
   ],
   "dict": {
+    "0.jpg": {
+      "type": "photo",
+      "width": 2479,
+      "height": 3400,
+      "path": "./photos/Paintings/0.jpg",
+      "min_path": "./photos/Paintings/0.min.jpg"
+    },
     "1.jpg": {
       "type": "photo",
       "width": 993,
